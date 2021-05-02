@@ -2,4 +2,5 @@
 :root {
   --primaryColor: #1abc9c;
   --textPrimary: white;
+  --defaultTextSize: 30px
 }
